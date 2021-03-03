@@ -14,3 +14,8 @@ My Name is Chiu Yein.
 
 ![Anurag's GitHub stats](https://github-readme-status-chiuyein.vercel.app/api?username=ChiuYein&show_icons=true&theme=radical)
 
+
+<summary> Top Used Languages </summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
