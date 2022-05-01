@@ -10,10 +10,6 @@ My Name is Chiu Yein.
 - 👯 I’m looking to collaboration for projects
 - 📫 How to reach me: chiuyein@yahoo.com
 
-<summary>Github Stats: </summary>
-
-![Anurag's GitHub stats](https://github-readme-status-chiuyein.vercel.app/api?username=ChiuYein&show_icons=true&theme=radical)
-
 
 <summary> Top Used Languages </summary>
 
