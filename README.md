@@ -11,7 +11,3 @@ My Name is Chiu Yein.
 - 📫 How to reach me: chiuyein@yahoo.com
 
 
-<summary> Top Used Languages </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
