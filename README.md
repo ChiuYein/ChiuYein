@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ...
 -->
 ##### Hello,  Chiu Yein here 👋
-- 🌱 I’m currently explore React for Front End and Ruby on Rails for Back End
+- 🌱 I’m currently explore Vue.js
 - 👯 I’m open for collaboration for projects
 
 Where to say hi?
